@@ -3,5 +3,6 @@
       {"id":1,"username":"admin","password":"admin","name":"Ranit","email":"abc@gmail.com","role":"ADMIN","loggedIn":true },
       {"id":2,"username":"rc","password":"jjj","name":"Tom","email":"tom@gmail.com","role":"NA","loggedIn":false },
       {"id":3,"username":"vox","password":"123","name":"Vesper","email":"vp@gmail.com","role":"OB","loggedIn":false }
+      {"id":4,"username":"adam123","password":"123","name":"Adam","email":"ada@gmail.com","role":"NA","loggedIn":false }
     ]
 }
